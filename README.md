@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -7,8 +6,8 @@
 </head>
 <body>
 
-    <h1>Bienvenido a mi página</h1>
-    <p>Esta es una página HTML básica.</p>
+    <h1>GORDO</h1>
+    <p>Ivantubi el mas gordo</p>
 
 </body>
 </html>
