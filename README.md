@@ -6,8 +6,8 @@
 </head>
 <body>
 
-    <h1>GORDO</h1>
-    <p>Ivantubi el mas gordo</p>
+    <h1></h1>
+    <p></p>
 
 </body>
 </html>
